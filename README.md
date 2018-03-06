@@ -6,4 +6,5 @@ The scripts vary from variable to web-scraping.
 
 <ul>
   <li><a href="ascii.py">Converting char to its ASCII value</a></li>
+  <li><a href="passgen.py">A password generator</a></li>
 </ul>
