@@ -3,7 +3,7 @@
 <h2>Simple python scripts to solve common programming problems.</h2>
 
 The scripts vary from variable to web-scraping.
-<img src="https://www.canva.com/design/DACyiyHbYxM/6zxEBJ2m5wyS4MhH_sFgqA/view?utm_content=DACyiyHbYxM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
+<img src="#basic-python.png">
 
 <ul>
   <li><a href="ascii.py">Converting char to its ASCII value</a></li>
