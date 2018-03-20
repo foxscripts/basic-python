@@ -2,7 +2,7 @@
 
 <h2>Simple python scripts to solve common programming problems.</h2>
 
-The scripts vary from variable to web-scraping.
+<br/><br/>
 ![basic---python](https://github.com/foxscripts/basic-python/blob/master/%23basic-python.png)
 
 
