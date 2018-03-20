@@ -3,7 +3,8 @@
 <h2>Simple python scripts to solve common programming problems.</h2>
 
 The scripts vary from variable to web-scraping.
-<img src="#basic-python.png">
+![basic---python](https://github.com/foxscripts/basic-python/blob/master/%23basic-python.png)
+
 
 <ul>
   <li><a href="ascii.py">Converting char to its ASCII value</a></li>
