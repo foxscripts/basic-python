@@ -1,19 +1,17 @@
 # basic-python
 
-<h2>Simple python scripts to solve common programming problems.</h2>
+## Simple python scripts to solve common programming problems.
 
 <br/><br/>
 ![basic---python](https://github.com/foxscripts/basic-python/blob/master/%23basic-python.png)
 
 
-<ol>
-  <li><a href="ascii.py">Converting char to its ASCII value</a></li>
-  <li><a href="passgen.py">A password generator</a></li>
-  <li><a href="encryptdict.py">Encryption with dictionary</a></li>
-  <li><a href="fibonacci.py">Script to print Fibonacci series</a></li>
-  <li><a href="list.py">Simple list manipulation</a></li>
-  <li><a href="setstuplesdict.py">Set,Tuple,Dictionary and manipulations</a></li>
-  <li><a href="csv.py">Handling CSV files and data</a></li>
-  <li><a href="files.py">Files manipulations</a></li>
-  <li><a href="urllib.py">urllib module example</a></li>
-</ol>
+[Converting char to its ASCII value](ascii.py)
+[A password generator](passgen.py)
+[Encryption with dictionary](encryptdict.py)
+[Script to print Fibonacci series](fibonacci.py)
+[Simple list manipulation](list.py)
+[Set,Tuple,Dictionary and manipulations](setstuplesdict.py)
+[Files manipulations](files.py)
+[urllib module example](urllib.py)
+[Handling CSV files and data](csv.py)
