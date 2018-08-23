@@ -15,4 +15,8 @@
 07  [Files manipulations](files.py)\
 08  [urllib module example](urllib.py)\
 09  [Handling CSV files and data](csv.py)\
-10  [Scraping Reddit and saving in a Csv](scrapper.py)
+10  [Scraping Reddit and saving in a CSV](scrapper.py)\
+11  [A Graphical Calculator](calci.py)\
+11  [GDP Target and Achieved (MatPlotLib)](scrapper.py)\
+
+![gdp--graph](https://github.com/foxscripts/basic-python/blob/master/gdp.png)
