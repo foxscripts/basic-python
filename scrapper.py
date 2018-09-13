@@ -7,10 +7,10 @@ headers.update({
     'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0',
 })
 
-url = requests.get('https://www.reddit.com/r/todayilearned/', headers=headers)
+url = requests.get('https://www.reddit.com/r/worldnews/', headers=headers)
 urlContent =BeautifulSoup(url.content,"lxml")
 
-csvFile = open('TIL.csv', 'w')
+csvFile = open('news.csv', 'w')
 csvWrite = csv.writer(csvFile)
 csvWrite.writerow(['Today I Learned'])
 
